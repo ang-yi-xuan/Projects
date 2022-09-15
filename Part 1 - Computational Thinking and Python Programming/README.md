@@ -35,8 +35,8 @@ Students will learn how to write simple Python programs through hands-on coding 
 
 * ### Intended Learning Outcomes
 At the end of this exercise, you should:
-* Know the basic structure of a Python program.
-* Make use of variables and different data types in the program.
+1. Know the basic structure of a Python program.
+2. Make use of variables and different data types in the program.
 
 
 * ### Equipment and accessories required
