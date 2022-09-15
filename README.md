@@ -10,3 +10,5 @@
 * ### Lab 6 - Decomposition
 
 # Part 2 - C Programming
+
+* ### Lab 1 – Basic C Programming and Control Flow
