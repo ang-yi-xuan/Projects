@@ -1,6 +1,7 @@
-# **CE1103 Part 1 - Computational Thinking and Python Programming** ---
+# **CE1103 Part 1 - Computational Thinking and Python Programming**
+---
 
-## **Lab 1 - Introduction to RPi** ---
+## **Lab 1 - Introduction to RPi**
 
 * ### Learning Objectives
 In this course, students will learn the various concepts of computational thinking
@@ -25,7 +26,7 @@ module/board.
 2. PC
 
 
-## **Lab 2 - Basic Python Programming** ---
+## **Lab 2 - Basic Python Programming**
 
 * ### Learning Objectives
 Students will learn how to write simple Python programs through hands-on coding exercises on the Raspberry Pi. It also shows how variables and data types can be useful when coding program.
