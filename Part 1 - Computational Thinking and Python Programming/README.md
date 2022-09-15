@@ -1,5 +1,4 @@
 # **CE1103 Part 1 - Computational Thinking and Python Programming**
-# ----------------------------------------------------------------------------
 
 ## **Lab 1 - Introduction to RPi**
 
@@ -14,9 +13,9 @@ environment of the RPi.
 
 * ### Intended Learning Outcomes
 At the end of this exercise, you should be able to
-1. Operate the Raspberry Pi board through its Graphic User Interface and through its
+⋅⋅1. Operate the Raspberry Pi board through its Graphic User Interface and through its
 Terminal mode interface.
-2. Write basic programs in Python language and C language to observe the difference
+⋅⋅2. Write basic programs in Python language and C language to observe the difference
 in running an interpreted language and a compiled language based programs.
 
 
