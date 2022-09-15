@@ -58,4 +58,4 @@ environment of the RPi.
     port of a desktop computer).
     * A computer (desktop PC or notebook) with Ethernet port and cable for remote
     access of RPi3. Software (open source) to be installed on the computer – PuTTY,
-    VNC Viewer and WinSCP
+    VNC Viewer and WinSCP.
