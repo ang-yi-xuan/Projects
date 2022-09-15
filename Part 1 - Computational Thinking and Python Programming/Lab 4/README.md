@@ -2,16 +2,16 @@
 --- 
 
 
-## **Lab 3 - Basic Python Programming - Conditional Executions and Iterations**
+## **Lab 4 - Data Abstraction**
 
 * ### Learning Objectives
-    Students will learn how to apply the relational operations, selections and repetition to implement robust programs through coding exercises on the Raspberry Pi.
+    Students will learn how data abstraction can be used in program to support and simplify the implementation of an algorithm.
 
 * ### Intended Learning Outcomes
     At the end of this exercise, you should be able to:
-    
-    * Apply the concept of relational operations with selection to form conditional expressions.
-    * Make use of iteration in your program to perform repetitive tasks.
+
+    * Make use of appropriate data structure to improve the structure of a program.
+    * Apply various concepts learnt in earlier topics (conditional selection, looping) and various functions to develop more complex programs.
 
 * ### Equipment and accessories required
     * Raspberry Pi 3 Model B (RPi3) board with Sense HAT add-on display module/board.

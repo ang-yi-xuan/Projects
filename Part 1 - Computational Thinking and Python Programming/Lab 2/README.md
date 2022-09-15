@@ -9,7 +9,8 @@
 
 
 * ### Intended Learning Outcomes
-    At the end of this exercise, you should:
+    At the end of this exercise, you should be able to:
+    
     * Know the basic structure of a Python program.
     * Make use of variables and different data types in the program.
 
