@@ -54,7 +54,7 @@ def check_status(new_x, new_y):
     # cannot use -1, for -1 represents True in python, should use 0 instead
     return False
 
-# exercise a
+# Exercise A
 def move_marble(pitch,roll,x,y):
   new_x = x #assume no change to start with
   new_y = y #assume no change to start with
@@ -103,7 +103,7 @@ sense.set_pixels(board_1D)
 start = time.time()
 y_g, x_g = set_target(8)
 
-# exercise b
+# Exercise B
 while True:
   # challenge exercise
   if time.time() - start >= 10:
@@ -117,13 +117,14 @@ while True:
   orientation = sense.get_orientation()
   pitch = orientation['pitch']
   roll = orientation['roll']
-  # exercise c
+
+  # Exercise C
   board[y][x] = b
   x,y = move_marble(pitch,roll,x,y)
   
   # check whether white meets green
   if check_status(x,y):
-    sense.show_message("Yaaa!!")
+    sense.show_message("Yay!!")
     sense.clear()
     break
   
