@@ -14,14 +14,14 @@ environment of the RPi.
 * ### Intended Learning Outcomes
 At the end of this exercise, you should be able to:
 
- ⋅⋅* Operate the Raspberry Pi board through its Graphic User Interface and through its
+1. Operate the Raspberry Pi board through its Graphic User Interface and through its
 Terminal mode interface.
- ⋅⋅* Write basic programs in Python language and C language to observe the difference
+2. Write basic programs in Python language and C language to observe the difference
 in running an interpreted language and a compiled language based programs.
 
 
 * ### Equipment and accessories required
-⋅⋅* Raspberry Pi 3 Model B (RPi3) board with Sense HAT add-on display
+1. Raspberry Pi 3 Model B (RPi3) board with Sense HAT add-on display
 module/board.
 2. PC
 
