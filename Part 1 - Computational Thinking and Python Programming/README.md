@@ -21,8 +21,8 @@ environment of the RPi.
 
 
 * ### Equipment and accessories required
-1. Raspberry Pi 3 Model B (RPi3) board with Sense HAT add-on display module/board.
-2. PC
+    * Raspberry Pi 3 Model B (RPi3) board with Sense HAT add-on display module/board.
+    * PC
 
 
 ## **Lab 2 - Basic Python Programming**
@@ -33,11 +33,11 @@ environment of the RPi.
 
 * ### Intended Learning Outcomes
     At the end of this exercise, you should:
-1. Know the basic structure of a Python program.
-2. Make use of variables and different data types in the program.
+    * Know the basic structure of a Python program.
+    * Make use of variables and different data types in the program.
 
 
 * ### Equipment and accessories required
-1. Raspberry Pi 3 Model B (RPi3) board with Sense HAT add-on display module/board.
-2. A USB power source to power the RPi3 board (E.g. Power Bank, Adaptor or USB port of a desktop computer).
-3. A computer (desktop PC or notebook) with Ethernet port and cable for remote access of RPi3. Software (open source) to be installed on the computer – PuTTY, VNC Viewer, ‘MS Remote Desktop Connection’ and WinSCP.
+    * Raspberry Pi 3 Model B (RPi3) board with Sense HAT add-on display module/board.
+    * A USB power source to power the RPi3 board (E.g. Power Bank, Adaptor or USB port of a desktop computer).
+    * A computer (desktop PC or notebook) with Ethernet port and cable for remote access of RPi3. Software (open source) to be installed on the computer – PuTTY, VNC Viewer, ‘MS Remote Desktop Connection’ and WinSCP.
