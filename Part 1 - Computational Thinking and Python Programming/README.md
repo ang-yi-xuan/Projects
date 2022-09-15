@@ -12,7 +12,7 @@ environment of the RPi.
 
 
 * ### Intended Learning Outcomes
- At the end of this exercise, you should be able to:
+   At the end of this exercise, you should be able to:
 
 1. Operate the Raspberry Pi board through its Graphic User Interface and through its
 Terminal mode interface.
@@ -29,11 +29,11 @@ module/board.
 ## **Lab 2 - Basic Python Programming**
 
 * ### Learning Objectives
-Students will learn how to write simple Python programs through hands-on coding exercises on the Raspberry Pi. It also shows how variables and data types can be useful when coding program.
+   Students will learn how to write simple Python programs through hands-on coding exercises on the Raspberry Pi. It also shows how variables and data types can be useful when coding program.
 
 
 * ### Intended Learning Outcomes
-At the end of this exercise, you should:
+   At the end of this exercise, you should:
 1. Know the basic structure of a Python program.
 2. Make use of variables and different data types in the program.
 
