@@ -124,7 +124,7 @@ while True:
   
   # check whether white meets green
   if check_status(x,y):
-    sense.show_message("Yay!!")
+    sense.show_message("yay!!!")
     sense.clear()
     break
   
