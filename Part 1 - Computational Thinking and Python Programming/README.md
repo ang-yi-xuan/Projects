@@ -12,7 +12,7 @@ computer, and how to use its text-based (Linux’s bash) commands to explore the
 environment of the RPi.
 
 
-### * Intended Learning Outcomes
+### ..* Intended Learning Outcomes
 At the end of this exercise, you should be able to
 1. Operate the Raspberry Pi board through its Graphic User Interface and through its
 Terminal mode interface.
