@@ -4,7 +4,7 @@
 ## **Lab 1 - Introduction to RPi**
 
 * ### Learning Objectives
-In this course, students will learn the various concepts of computational thinking
+ In this course, students will learn the various concepts of computational thinking
 through programming exercises performed on the Raspberry Pi platform. This
 laboratory exercise is to introduce students to the Raspberry Pi (RPi) single-board
 computer, and how to use its text-based (Linux’s bash) commands to explore the
@@ -12,7 +12,7 @@ environment of the RPi.
 
 
 * ### Intended Learning Outcomes
-At the end of this exercise, you should be able to:
+ At the end of this exercise, you should be able to:
 
 1. Operate the Raspberry Pi board through its Graphic User Interface and through its
 Terminal mode interface.
