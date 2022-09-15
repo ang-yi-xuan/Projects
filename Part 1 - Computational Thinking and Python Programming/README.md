@@ -38,6 +38,6 @@ environment of the RPi.
 
 
 * ### Equipment and accessories required
-1. Raspberry Pi 3 Model B (RPi3) board with Sense HAT add-on display module/board.
-2. A USB power source to power the RPi3 board (E.g. Power Bank, Adaptor or USB port of a desktop computer).
-3. A computer (desktop PC or notebook) with Ethernet port and cable for remote access of RPi3. Software (open source) to be installed on the computer – PuTTY, VNC Viewer, ‘MS Remote Desktop Connection’ and WinSCP.
+ 1. Raspberry Pi 3 Model B (RPi3) board with Sense HAT add-on display module/board.
+ 2. A USB power source to power the RPi3 board (E.g. Power Bank, Adaptor or USB port of a desktop computer).
+ 3. A computer (desktop PC or notebook) with Ethernet port and cable for remote access of RPi3. Software (open source) to be installed on the computer – PuTTY, VNC Viewer, ‘MS Remote Desktop Connection’ and WinSCP.
