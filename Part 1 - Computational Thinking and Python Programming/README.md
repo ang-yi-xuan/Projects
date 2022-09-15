@@ -14,9 +14,9 @@ environment of the RPi.
 * ### Intended Learning Outcomes
 At the end of this exercise, you should be able to:
 
-⋅⋅* Operate the Raspberry Pi board through its Graphic User Interface and through its
+ ⋅⋅* Operate the Raspberry Pi board through its Graphic User Interface and through its
 Terminal mode interface.
-⋅⋅* Write basic programs in Python language and C language to observe the difference
+ ⋅⋅* Write basic programs in Python language and C language to observe the difference
 in running an interpreted language and a compiled language based programs.
 
 
