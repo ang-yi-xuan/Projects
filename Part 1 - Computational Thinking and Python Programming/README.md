@@ -37,8 +37,8 @@ Students will learn how to write simple Python programs through hands-on coding 
 At the end of this exercise, you should:
 
 
-1. know the basic structure of a Python program.
-2. be able to make use of variables and different data types in the program.
+: 1. know the basic structure of a Python program.
+: 2. be able to make use of variables and different data types in the program.
 
 
 * ### Equipment and accessories required
