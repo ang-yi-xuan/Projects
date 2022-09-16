@@ -5,7 +5,7 @@
 ## **Lab 3 ‐ Arrays**
 
 * ### Question 1:
-    * `(findAr1D)` Write a function `findAr1D()` that returns the subscript of the **first appearance** of a target number in an array. 
+    `(findAr1D)` Write a function `findAr1D()` that returns the subscript of the **first appearance** of a target number in an array. 
     For example, if **ar = { 3,6,9,4,7,8 }**, then findAr1D(6,ar,3) will return 0 where 6 is the size of the array and 3 is the number to be found, and
     `findAr1D(6,ar,9)` will return 2. If the required number is not in the array, the function will return ‐1. The function prototype is given as follows:
     int findAr1D(int size, int ar[ ], int target);
