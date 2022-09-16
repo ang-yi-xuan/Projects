@@ -5,7 +5,7 @@
 ## **Lab 2 – Functions and Pointers**
 
 * ### Question 1:
-    **(numDigits)** Write a function that counts the number of digits for a non‐negative integer. For example, 1234 has 4 digits. 
+    `(numDigits)` Write a function that counts the number of digits for a non‐negative integer. For example, 1234 has 4 digits. 
     The function **numDigits1()** returns the result.
     The function prototype is given below:
     int numDigits1(int num);
@@ -48,5 +48,5 @@
 
     For example, if num = 4, then *result = 42 = 1 + 3 + 5 + 7 = 16; if num = 5, then *result = 52 = 1 + 3 + 5 + 7 + 9 = 25. 
 
-    
+
     The function prototype is: void square2(int num, int *result);
