@@ -9,7 +9,7 @@ int main()
     for (row = 0; row < height; row++)
     {
         for (col = 0; col < row+1; col++)
-        printf("%d",num+1);
+            printf("%d",num+1);
         num = (num + 1) % 3;
         printf("\n");
     }
