@@ -39,6 +39,8 @@
     333
 
 
+
+
     while pattern(7) will print the following pattern:
 
 
