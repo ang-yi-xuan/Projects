@@ -2,7 +2,7 @@
 --- 
 
 
-## **Lab 2 – Functions and Pointers**
+# **Lab 2 – Functions and Pointers**
 
 * ### Question 1:
     * `(numDigits)` Write a function that counts the number of digits for a non‐negative integer. For example, 1234 has 4 digits. 
