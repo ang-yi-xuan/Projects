@@ -30,6 +30,8 @@
     according to height. Note that only 1, 2 and 3 are used to generate the patterns. 
     
     A sample input and output session when the program is called is given. For example, pattern(2) will print the following pattern:
+
+
     1
 
 
@@ -40,6 +42,8 @@
 
 
     while pattern(7) will print the following pattern:
+
+    
     1
 
 
@@ -57,7 +61,7 @@
 
     333333
 
-    
+
     1111111
 
 
