@@ -20,8 +20,7 @@
 
 
 
-    Use the sentinel value –1 for student ID to indicate the end of user input.
-    Write the program using the switch statement.
+    Use the sentinel value –1 for student ID to indicate the end of user input. Write the program using the switch statement.
 
 
 * ### Question 2:
