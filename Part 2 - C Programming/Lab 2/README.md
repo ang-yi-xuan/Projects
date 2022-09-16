@@ -10,6 +10,8 @@
 
 
     The function prototype is: `int numDigits1(int num);`
+
+    
 &nbsp;
     Write another function `numDigits2()` that passes the result through the pointer parameter, result. 
 
