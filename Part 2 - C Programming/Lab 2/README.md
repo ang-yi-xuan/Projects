@@ -31,7 +31,7 @@
 
 
     * Write another function `digitPos2()` that passes the result through the pointer parameter, result. 
-    For example, if num = 12315 and digit = 1, then *result = 2 and if num=12 and digit = 3, then *result = 0. 
+      For example, if num = 12315 and digit = 1, then *result = 2 and if num=12 and digit = 3, then *result = 0. 
 
 
       Function prototype: void digitPos2(int num, int digit, int *result);
