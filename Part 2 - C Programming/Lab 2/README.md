@@ -17,7 +17,7 @@
 
     The function prototype is: `void numDigits2(int num, int *result);`
 
-&nbsp;
+
 &nbsp;
 
 * ### Question 2:
