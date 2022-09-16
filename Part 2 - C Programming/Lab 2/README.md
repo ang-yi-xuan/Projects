@@ -11,7 +11,7 @@
 
       Function prototype: int numDigits1(int num);
 
-
+<p>&nbsp;</p>
     * Write another function `numDigits2()` that passes the result through the pointer parameter, result. 
 
 
@@ -29,7 +29,7 @@
 
       Function prototype: int digitPos1(int num, int digit);
 
-
+<p>&nbsp;</p>
     * Write another function `digitPos2()` that passes the result through the pointer parameter, result. 
       For example, if num = 12315 and digit = 1, then *result = 2 and if num=12 and digit = 3, then *result = 0. 
 
@@ -46,8 +46,9 @@
 
 
         For example, if num = 4, then 42 = 1 + 3 + 5 + 7 = 16 is returned; if num = 5, then 52 = 1 + 3 + 5 + 7 + 9 = 25 is returned.   
-        <p>&nbsp;</p>
+
         Function prototype: int square1(int num);  
+        
         <p>&nbsp;</p>
     * Write another function `square2()` that passes the result through the pointer parameter, result. 
 
