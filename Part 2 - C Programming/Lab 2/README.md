@@ -7,13 +7,15 @@
 * ### Question 1:
     `(numDigits)` Write a function that counts the number of digits for a non‐negative integer. For example, 1234 has 4 digits. 
     The function `numDigits1()` returns the result.
-    The function prototype is given below:
-    `int numDigits1(int num);`
+
+
+    The function prototype is: `int numDigits1(int num);`
 
 
     Write another function `numDigits2()` that passes the result through the pointer parameter, result. 
-    The function prototype is given below:
-    `void numDigits2(int num, int *result);`
+
+    
+    The function prototype is: `void numDigits2(int num, int *result);`
 
 
 * ### Question 2:
@@ -21,14 +23,16 @@
     The position of the digit is counted from the right and starts from 1. If the required digit is not in the number, the function should
     return 0. 
     For example, digitPos1(12315, 1) returns 2 and digitPos1(12, 3) returns 0. 
-    The function prototype is given below:
-    `int digitPos1(int num, int digit);`
+
+
+    The function prototype is: `int digitPos1(int num, int digit);`
 
 
     Write another function `digitPos2()` that passes the result through the pointer parameter, result. 
     For example, if num = 12315 and digit = 1, then *result = 2 and if num=12 and digit = 3, then *result = 0. 
-    The function prototype is given below:
-    `void digitPos2(int num, int digit, int *result);`
+
+
+    The function prototype is: `void digitPos2(int num, int digit, int *result);`
 
 
 * ### Question 3:
