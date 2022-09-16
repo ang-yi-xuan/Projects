@@ -45,7 +45,7 @@
     The result is returned to the calling function. 
 
 
-    For example, if num = 4, then 42 = 1 + 3 + 5 + 7 = 16 is returned; if num = 5, then 52 = 1 + 3 + 5 + 7 + 9 = 25 is returned. 
+        For example, if num = 4, then 42 = 1 + 3 + 5 + 7 = 16 is returned; if num = 5, then 52 = 1 + 3 + 5 + 7 + 9 = 25 is returned. 
 
 
       Function prototype: int square1(int num);
@@ -54,7 +54,7 @@
     * Write another function `square2()` that passes the result through the pointer parameter, result. 
 
 
-    For example, if num = 4, then *result = 42 = 1 + 3 + 5 + 7 = 16; if num = 5, then *result = 52 = 1 + 3 + 5 + 7 + 9 = 25. 
+        For example, if num = 4, then *result = 42 = 1 + 3 + 5 + 7 = 16; if num = 5, then *result = 52 = 1 + 3 + 5 + 7 + 9 = 25. 
 
 
       Function prototype: void square2(int num, int *result);
