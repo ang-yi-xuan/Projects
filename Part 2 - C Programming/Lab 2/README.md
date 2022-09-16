@@ -51,6 +51,8 @@
         Function prototype: int square1(int num);
 
 
+&nbsp;
+
     * Write another function `square2()` that passes the result through the pointer parameter, result. 
 
 
