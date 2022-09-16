@@ -26,7 +26,7 @@
     For example, digitPos1(12315, 1) returns 2 and digitPos1(12, 3) returns 0. 
 
 
-        The function prototype is: `int digitPos1(int num, int digit);`
+        The function prototype is: int digitPos1(int num, int digit);
 
 
     * Write another function `digitPos2()` that passes the result through the pointer parameter, result. 
