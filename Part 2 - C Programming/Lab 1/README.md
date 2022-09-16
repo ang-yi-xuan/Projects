@@ -31,17 +31,33 @@
     
     A sample input and output session when the program is called is given. For example, pattern(2) will print the following pattern:
     1
+
+
     22
+
+
     333
 
 
     while pattern(7) will print the following pattern:
     1
+
+
     22
+
+
     333
+
+
     1111
+
+
     22222
+
+
     333333
+
+    
     1111111
 
 
