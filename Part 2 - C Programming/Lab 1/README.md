@@ -9,13 +9,13 @@
     The range of the marks is from 0 to 100. The relationships of the marks and grades are given below. Use the sentinel value –1 for 
     student ID to indicate the end of user input. Write the program using the switch statement.
 
-| Grade         | Mark          |
-| ------------- |:-------------:| 
-| A             | 100‐75        | 
-| B             | 74‐65         |
-| C             | 64‐55         |
-| D             | 54‐45         |
-| F             | 44‐0          |
+    | Grade         | Mark          |
+    | ------------- |:-------------:| 
+    | A             | 100‐75        | 
+    | B             | 74‐65         |
+    | C             | 64‐55         |
+    | D             | 54‐45         |
+    | F             | 44‐0          |
 
 
 * ### Question 2:
