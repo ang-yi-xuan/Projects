@@ -6,7 +6,8 @@
 
 * ### Question 1:
     Write a C program that prints the ID and grade of each student in a class. The input contains the student IDs and their marks. 
-    The range of the marks is from 0 to 100. The relationships of the marks and grades are given below:
+    The range of the marks is from 0 to 100. The relationships of the marks and grades are given below. Use the sentinel value –1 for 
+    student ID to indicate the end of user input. Write the program using the switch statement.
 
 | Grade         | Mark          |
 | ------------- |:-------------:| 
@@ -15,12 +16,6 @@
 | C             | 64‐55         |
 | D             | 54‐45         |
 | F             | 44‐0          |
- 
-
-
-
-
-    Use the sentinel value –1 for student ID to indicate the end of user input. Write the program using the switch statement.
 
 
 * ### Question 2:
