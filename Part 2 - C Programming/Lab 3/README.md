@@ -17,7 +17,7 @@
 
     `(swap2RowsCols2D)` Write the code for the following matrix functions: 
 
-
+```
     void swap2Rows(int ar[][SIZE], int r1, int r2);
     /* the function swaps the row r1 with the row r2 of a 2‐dimensional array ar */
 
@@ -25,5 +25,5 @@
     void swap2Cols(int ar[][SIZE], int c1, int c2);
     /* the function swaps the column c1 with the column c2 of a 2‐dimensional array ar*/
 
-
+```
     You may assume that the input matrix is a 3x3 matrix, i.e. SIZE = 3.
