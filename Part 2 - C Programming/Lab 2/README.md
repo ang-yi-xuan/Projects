@@ -14,7 +14,7 @@
 
     Write another function `numDigits2()` that passes the result through the pointer parameter, result. 
 
-    
+
     The function prototype is: `void numDigits2(int num, int *result);`
 
 
@@ -45,6 +45,8 @@
 
 
     The function prototype is: `int square1(int num);`
+
+
 
 
     Write another function `square2()` that passes the result through the pointer parameter, result. 
