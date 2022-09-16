@@ -2,7 +2,7 @@
 --- 
 
 
-# **Lab 3 ‐ Arrays**
+## **Lab 3 ‐ Arrays**
 
 * ### Question 1:
     `(findAr1D)` Write a function `findAr1D()` that returns the subscript of the **first appearance** of a target number in an array. 
