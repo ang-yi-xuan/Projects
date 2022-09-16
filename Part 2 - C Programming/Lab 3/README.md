@@ -40,7 +40,7 @@
     void printReverse(int ar[], int size);
     ```
 
-    where size indicates the size of the array.
+        where size indicates the size of the array.
 
     * Write two versions of printReverse(). One version printReverse1() uses the index
     notation and the other version printReverse2() uses the pointer notation for accessing
