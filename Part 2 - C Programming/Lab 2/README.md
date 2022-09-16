@@ -46,7 +46,6 @@
 
 
         For example, if num = 4, then 42 = 1 + 3 + 5 + 7 = 16 is returned; if num = 5, then 52 = 1 + 3 + 5 + 7 + 9 = 25 is returned.   
-        
         <p>&nbsp;</p>
         Function prototype: int square1(int num);  
 
