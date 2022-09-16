@@ -33,9 +33,10 @@
 
 * ### Question 3:
     **(square)** Write a function **square1()** that returns the square of a positive integer number num, by computing the sum of odd integers starting with 1 
-    as shown in the example below. The result is returned to the calling function. 
-    For example, if num = 4, then 42 = 1 + 3 + 5 + 7 = 16 is returned; if num = 5, then 52 = 1 + 3 + 5 + 7 + 9 = 25 is
-    returned. The function prototype is: int square1(int num);
+    as shown in the example below. 
+    The result is returned to the calling function. 
+    For example, if num = 4, then 42 = 1 + 3 + 5 + 7 = 16 is returned; if num = 5, then 52 = 1 + 3 + 5 + 7 + 9 = 25 is returned. 
+    The function prototype is: int square1(int num);
 
 
     Write another function **square2()** that passes the result through the pointer parameter, result. 
