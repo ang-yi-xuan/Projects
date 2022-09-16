@@ -59,4 +59,3 @@
 
         Function prototype: void square2(int num, int *result);
 
-        
