@@ -17,6 +17,8 @@
 
     The function prototype is: `void numDigits2(int num, int *result);`
 
+&nbsp;
+&nbsp;
 
 * ### Question 2:
     `(digitPos)` Write the function `digitPos1()` that returns the position of the first appearance of a specified digit in a positive number. 
