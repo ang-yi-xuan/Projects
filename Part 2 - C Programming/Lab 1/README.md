@@ -63,6 +63,8 @@
     1111111
 
 
-## $$ e^x = {1 + {x \over 1!} + {x^2 \over 2!} + {x^3 \over 3!} + ... + {x^10 \over 10!}} $$
+* ### Question 4:
+    Write a C program that computes the value of ex according to the following formula:
 
-$$ {1 \over 1000} $$
+    
+ $$ e^x = {1 + {x \over 1!} + {x^2 \over 2!} + {x^3 \over 3!} + ... + {x^10 \over 10!}} $$
