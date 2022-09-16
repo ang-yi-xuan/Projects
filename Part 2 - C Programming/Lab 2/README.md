@@ -9,13 +9,13 @@
     The function `numDigits1()` returns the result.
 
 
-        Function prototype: int numDigits1(int num);
+      Function prototype: int numDigits1(int num);
 
 
     * Write another function `numDigits2()` that passes the result through the pointer parameter, result. 
 
 
-        Function prototype: void numDigits2(int num, int *result);
+      Function prototype: void numDigits2(int num, int *result);
 
 
 &nbsp;
@@ -27,14 +27,14 @@
     For example, digitPos1(12315, 1) returns 2 and digitPos1(12, 3) returns 0. 
 
 
-        Function prototype: int digitPos1(int num, int digit);
+      Function prototype: int digitPos1(int num, int digit);
 
 
     * Write another function `digitPos2()` that passes the result through the pointer parameter, result. 
     For example, if num = 12315 and digit = 1, then *result = 2 and if num=12 and digit = 3, then *result = 0. 
 
 
-        Function prototype: void digitPos2(int num, int digit, int *result);
+      Function prototype: void digitPos2(int num, int digit, int *result);
 
 
 &nbsp;
@@ -48,7 +48,7 @@
     For example, if num = 4, then 42 = 1 + 3 + 5 + 7 = 16 is returned; if num = 5, then 52 = 1 + 3 + 5 + 7 + 9 = 25 is returned. 
 
 
-        Function prototype: int square1(int num);
+      Function prototype: int square1(int num);
 
 
     * Write another function `square2()` that passes the result through the pointer parameter, result. 
@@ -57,5 +57,5 @@
     For example, if num = 4, then *result = 42 = 1 + 3 + 5 + 7 = 16; if num = 5, then *result = 52 = 1 + 3 + 5 + 7 + 9 = 25. 
 
 
-        Function prototype: void square2(int num, int *result);
+      Function prototype: void square2(int num, int *result);
 
