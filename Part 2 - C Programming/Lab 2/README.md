@@ -45,7 +45,7 @@
     The result is returned to the calling function. 
 
 
-        For example, if num = 4, then 42 = 1 + 3 + 5 + 7 = 16 is returned; if num = 5, then 52 = 1 + 3 + 5 + 7 + 9 = 25 is returned. 
+        For example, if num = 4, then 42 = 1 + 3 + 5 + 7 = 16 is returned; if num = 5, then 52 = 1 + 3 + 5 + 7 + 9 = 25 is returned.   
         
         
         Function prototype: int square1(int num);  
