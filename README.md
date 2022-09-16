@@ -12,3 +12,5 @@
 # Part 2 - C Programming
 
 * ### Lab 1 – Basic C Programming and Control Flow
+* ### Lab 2 – Functions and Pointers
+* ### Lab 3 ‐ Arrays
