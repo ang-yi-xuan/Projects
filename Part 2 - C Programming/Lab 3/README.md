@@ -36,9 +36,9 @@
     For example, if ar[5] = {1,2,3,4,5}, then the output 5,4,3,2,1 will be printed after applying the function printReverse(). 
     The function prototype is given as follows:
 
-    ```
-    void printReverse(int ar[], int size); // size indicates the size of the array
-    ```
+        ```
+        void printReverse(int ar[], int size); // size indicates the size of the array
+        ```
 
 
     * Write two versions of printReverse(). One version printReverse1() uses the index
