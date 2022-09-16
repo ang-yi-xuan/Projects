@@ -37,6 +37,8 @@
     The function prototype is: `void digitPos2(int num, int digit, int *result);`
 
 
+&nbsp;
+
 * ### Question 3:
     `(square)` Write a function `square1()` that returns the square of a positive integer number num, by computing the sum of odd integers starting with 1 
     as shown in the example below. 
