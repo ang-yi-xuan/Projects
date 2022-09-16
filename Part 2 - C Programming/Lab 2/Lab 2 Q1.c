@@ -11,8 +11,8 @@ int main()
    printf("numDigits2(): %d\n", result);
    return 0;
 }
+
 int numDigits1(int num)
-Page 4
 {
       int count = 0;
    do {
@@ -21,9 +21,9 @@ Page 4
    } while (num > 0);
    return count;
 }
+
 void numDigits2(int num, int *result)
 {
-   /* Write your code here */
    *result = 0
     do {
       count++;
