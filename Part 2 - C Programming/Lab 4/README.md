@@ -37,7 +37,9 @@
 
         If the target string is found, the function will return its index location, or ‐1 if otherwise. 
           
-        
+
+    &nbsp;
+
     * The function readNames() reads a number of names from the user. 
 
 
@@ -51,6 +53,8 @@
         parameter which passes the number of names to the caller. 
     
 
+    &nbsp;
+    
     * The function prototype of printNames() which prints the names is:
 
         ```
