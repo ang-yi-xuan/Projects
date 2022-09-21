@@ -27,7 +27,7 @@ void printReverse1(int ar[], int size)
     int i;
     printf("printReverse1(): ");
     if (size > 0) {
-        for (i=size‐1; i>=0; i‐‐)
+        for (i=size-1; i>=0; i--)
             printf("%d ", ar[i]);
         }
     printf("\n");
@@ -39,7 +39,7 @@ void printReverse2(int ar[], int size)
     int i;
     printf("printReverse2(): ");
     if (size > 0) {
-        for (i=size‐1; i>=0; i‐‐)
+        for (i=size-1; i>=0; i--)
             printf("%d ", *(ar+i));
         }
     printf("\n");
@@ -51,8 +51,8 @@ void reverseAr1D(int ar[ ], int size)
     if (size > 0) {
         for (i=0; i<size/2; i++){
             temp = ar[i];
-            ar[i] = ar[size‐i‐1];
-            ar[size‐i‐1] = temp;
+            ar[i] = ar[size-i-1];
+            ar[size-i-1] = temp;
         }
     }
 }
