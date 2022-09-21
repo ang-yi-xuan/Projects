@@ -31,7 +31,7 @@ char *sweepSpace2(char *str)
 {
    int i = 0, j = 0, length;
    length = strlen(str);
-    for (i=0; i<len; i++) 
+    for (i=0; i<length; i++) 
     {
         if (*(str + i) != ' ')
         {
@@ -39,6 +39,6 @@ char *sweepSpace2(char *str)
             j++;
         }
     }
-    *(str[j]) = '\0';
+    *(str+j) = '\0';
     return str;
 }
