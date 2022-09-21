@@ -12,7 +12,7 @@ int main()
         printf("Enter line %d (end with ‐1): \n", i+1);
         scanf("%d", &input);
 
-        while (input != ‐1)
+        while (input != -1)
         {
             total += input;
             count++;

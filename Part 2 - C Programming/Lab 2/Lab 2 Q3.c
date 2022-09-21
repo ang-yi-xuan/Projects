@@ -26,7 +26,8 @@ int square1(int num)
 
 void square2(int num, int *result)
 {
-    *result=0;
+  int count=0, k=1;  
+  *result=0;
     while (count < num)
     {
         *result += k;
