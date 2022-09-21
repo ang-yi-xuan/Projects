@@ -25,7 +25,7 @@
     stored in the array of strings. 
     
 
-    The function prototype is:
+    * The function prototype is:
 
     ```
     int findTarget(char *target, char nameptr[][80], int size);
@@ -38,8 +38,8 @@
     
     The function readNames() reads a number of names from the user. 
 
-    
-    The function prototype is:
+
+    * The function prototype is:
 
     ```
     void readNames(char nameptr[][80], int *size);
@@ -49,7 +49,7 @@
     parameter which passes the number of names to the caller. 
     
 
-    The function prototype of printNames() which prints the names is:
+    * The function prototype of printNames() which prints the names is:
 
     ```
     void printNames(char nameptr[][80], int size);
