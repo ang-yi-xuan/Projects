@@ -44,8 +44,6 @@
 
     where **nameptr** is the array of strings to store the input names, and **size** is a pointer
     parameter which passes the number of names to the caller. 
-    
-
 &nbsp;
 
 
