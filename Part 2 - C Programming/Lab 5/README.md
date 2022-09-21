@@ -4,14 +4,9 @@
 
 ## **Lab 5 - Structures**
 
-<<<<<<< HEAD
 ### **Phonebook Management System:**
 
 
-=======
-### Phonebook Management System:
-    
->>>>>>> 51c2cfecaccf66bb07b2ec6914246d3becad5277
     Write a C program that implements the phoebook management system with the following three functions:
 
 
