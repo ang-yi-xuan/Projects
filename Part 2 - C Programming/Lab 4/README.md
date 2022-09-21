@@ -27,23 +27,23 @@
 
     * The function prototype is:
 
-    ```
-    int findTarget(char *target, char nameptr[][80], int size);
-    ```
+        ```
+        int findTarget(char *target, char nameptr[][80], int size);
+        ```
 
-    where **nameptr** is the array of strings, **size** is the number of names stored in the array and
-    **target** is the target string. 
+        where **nameptr** is the array of strings, **size** is the number of names stored in the array and
+        **target** is the target string. 
 
-    If the target string is found, the function will return its index location, or ‐1 if otherwise. In addition, the program also contains the functions readNames() and printNames(). 
-    
-    The function readNames() reads a number of names from the user. 
+        If the target string is found, the function will return its index location, or ‐1 if otherwise. In addition, the program also contains the functions readNames() and printNames(). 
+        
+        The function readNames() reads a number of names from the user. 
 
 
     * The function prototype is:
 
-    ```
-    void readNames(char nameptr[][80], int *size);
-    ```
+        ```
+        void readNames(char nameptr[][80], int *size);
+        ```
 
     where **nameptr** is the array of strings to store the input names, and **size** is a pointer
     parameter which passes the number of names to the caller. 
