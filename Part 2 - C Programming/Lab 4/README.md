@@ -24,6 +24,7 @@
     contains the function findTarget() that searches whether a target name string has been
     stored in the array of strings. 
     
+
     The function prototype is:
 
     ```
@@ -36,6 +37,8 @@
     If the target string is found, the function will return its index location, or ‐1 if otherwise. In addition, the program also contains the functions readNames() and printNames(). 
     
     The function readNames() reads a number of names from the user. 
+
+    
     The function prototype is:
 
     ```
@@ -44,8 +47,7 @@
 
     where **nameptr** is the array of strings to store the input names, and **size** is a pointer
     parameter which passes the number of names to the caller. 
-&nbsp;
-
+    
 
     The function prototype of printNames() which prints the names is:
 
