@@ -38,8 +38,10 @@
         If the target string is found, the function will return its index location, or ‐1 if otherwise. 
         
 
-&nbsp;
-        In addition, the program also contains the functions readNames() and printNames(). 
+    &nbsp;
+
+
+    In addition, the program also contains the functions readNames() and printNames(). 
         
         
     * The function readNames() reads a number of names from the user. 
