@@ -1,4 +1,4 @@
-# CE1103
+# CE1103 Introduction to Computational Thinking and Programming
 
 # Part 1 - Computational Thinking and Python Programming
 
