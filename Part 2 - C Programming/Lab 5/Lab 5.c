@@ -63,8 +63,8 @@ void printPB(PhoneBk *pb, int size)
 
     else {
         for (i=0; i<size; i++) {
-            printf("Name: %s\n", (pb+i)‐>name);
-            printf("Telno: %d\n", (pb+i)‐>telno);
+            printf("Name: %s\n", (pb+i)->name);
+            printf("Telno: %d\n", (pb+i)->telno);
         }
 
     }
@@ -77,16 +77,16 @@ int readin(PhoneBk *pb)
     
     while (1) {
         printf("Enter name: \n");
-        fgets(pb‐>name, 80, stdin);
+        fgets(pb->name, 80, stdin);
 
-        if (p=strchr(pb‐>name,'\n')) 
+        if (p=strchr(pb->name,'\n')) 
             *p = '\0';
 
-        if (strcmp(pb‐>name,"#")==0)
+        if (strcmp(pb->name,"#")==0)
             break;
 
         printf("Enter tel: \n");
-        scanf("%d",&(pb‐>telno));
+        scanf("%d",&(pb->telno));
         fgets(dummy, 80, stdin);
         pb++;
         size++;
@@ -98,8 +98,8 @@ void search(PhoneBk *pb, int size, char *target)
     int i;
     
     for (i=0;i<size;i++,pb++){
-        if (strcmp(pb‐>name,target)==0){
-            printf("Name = %s, Tel = %d\n",target,pb‐>telno);
+        if (strcmp(pb->name,target)==0){
+            printf("Name = %s, Tel = %d\n",target,pb->telno);
         break;
         }
     }
