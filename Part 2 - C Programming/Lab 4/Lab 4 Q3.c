@@ -21,6 +21,7 @@ int main()
 }
 int palindrome(char *str)
 {
+    int i, len;
     char *p1, *p2;
     i=0; len=0;
 
@@ -30,7 +31,7 @@ int palindrome(char *str)
     }
 
     p1=str;
-    p2=str+len‐1;
+    p2=str+len-1;
 
     while (p1<p2){
         if (*p1 != *p2)
@@ -38,7 +39,7 @@ int palindrome(char *str)
 
         else{
             p1++;
-            p2‐‐;
+            p2--;
         }
     }
     if (p1<p2)
