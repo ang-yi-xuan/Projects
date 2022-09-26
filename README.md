@@ -16,3 +16,6 @@
 * ### Lab 3 ‐ Arrays
 * ### Lab 4 ‐ Character Strings
 * ### Lab 5 ‐ Structures
+
+* ### Assignment 1
+* ### Assignment 2
