@@ -17,5 +17,5 @@
 * Lab 4 ‐ Character Strings
 * Lab 5 ‐ Structures
 
-* ### Assignment 1
-* ### Assignment 2
+* Assignment 1
+* Assignment 2
